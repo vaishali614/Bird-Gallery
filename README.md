@@ -1,4 +1,4 @@
-# Bird-Gallery
+# BIRD-GALLERY
 
 ## Home Page
 The home page contains the title - 'BIRD GALLERY' and 10 black and white bird images to be viewed.
