@@ -3,7 +3,7 @@
 ## Home Page
 The home page contains the title - 'BIRD GALLERY' and 10 black and white bird images to be viewed.
 
-![Screenshot (232)](https://user-images.githubusercontent.com/32364768/56663640-32001480-66c4-11e9-8827-b9730f7ef27a.png)
+![Screenshot (242)](https://user-images.githubusercontent.com/32364768/56664479-cb7bf600-66c5-11e9-8d77-6947355747d2.png)
 
 ## Hover on Image
 As you hover on an image, the bird image gains its color and enhances its size by 1%. 
